@@ -1,5 +1,5 @@
 _repo: The-Illustrated-Dictionary-of-Gardening-Division-1-A-to-Car-A-Practical-and-Scientific-Encycl__56162
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Almeida Garrett, João Batista da Silva Leitão de, Visconde de
@@ -16,6 +16,9 @@ contributor:
   - agent_name: Trail, J W H
     gutenberg_agent_id: '48701'
     url: http://www.gutenberg.org/2009/agents/48701
+covers:
+- cover_type: archival
+  image_path: 56162-h/images/backcover.jpg
 creator:
   author:
     agent_name: Various
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '48702'
     url: http://www.gutenberg.org/2009/agents/48702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56162#The-Illustrated-Dictionary-of-Gardening-Division-1-A-to-Car-A-Practical-and-Scientific-Encycl_
 gutenberg_issued: '2017-12-11'
 gutenberg_type: Text
 identifiers:
